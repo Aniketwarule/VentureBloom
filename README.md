@@ -77,7 +77,6 @@ VentureBloom aims to democratize access to funding and business validation for e
 Our platform streamlines the early-stage venture process, creating a more efficient ecosystem for innovation and growth.
 
 ---
-
 ## Contact
 
 For inquiries, please reach out to us via:
